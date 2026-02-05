@@ -30,7 +30,7 @@ export default function AnimatedSection({ children, className = '', delay = 0 }:
   return (
     <div
       ref={sectionRef}
-      className={`transition-all duration-1000 ${
+      className={`transition-all duration-1000 content-visibility-auto ${
         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
       } ${className}`}
     >

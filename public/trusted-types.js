@@ -1,0 +1,1 @@
+(function(){if("trustedTypes"in window&&"createPolicy"in trustedTypes){try{trustedTypes.createPolicy("default",{createHTML:function(s){return s},createScript:function(s){return s},createScriptURL:function(s){return s}})}catch(e){}}})();
