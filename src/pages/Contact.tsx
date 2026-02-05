@@ -222,15 +222,15 @@ export default function Contact() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
                 <div>
                   <div className="text-4xl font-bold mb-2">24 hours</div>
-                  <p className="text-emerald-100">Average response time</p>
+                  <p className="text-white">Average response time</p>
                 </div>
                 <div>
                   <div className="text-4xl font-bold mb-2">100%</div>
-                  <p className="text-emerald-100">Confidential service</p>
+                  <p className="text-white">Confidential service</p>
                 </div>
                 <div>
                   <div className="text-4xl font-bold mb-2">Expert</div>
-                  <p className="text-emerald-100">Legal team ready</p>
+                  <p className="text-white">Legal team ready</p>
                 </div>
               </div>
             </div>

@@ -95,15 +95,15 @@ export default function Process() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                   <div>
                     <div className="text-5xl font-bold mb-3">Clear</div>
-                    <p className="text-emerald-100">Transparent steps with no hidden surprises</p>
+                    <p className="text-white">Transparent steps with no hidden surprises</p>
                   </div>
                   <div>
                     <div className="text-5xl font-bold mb-3">Efficient</div>
-                    <p className="text-emerald-100">Streamlined workflow that respects your time</p>
+                    <p className="text-white">Streamlined workflow that respects your time</p>
                   </div>
                   <div>
                     <div className="text-5xl font-bold mb-3">Reliable</div>
-                    <p className="text-emerald-100">Consistent delivery on agreed timelines</p>
+                    <p className="text-white">Consistent delivery on agreed timelines</p>
                   </div>
                 </div>
               </div>

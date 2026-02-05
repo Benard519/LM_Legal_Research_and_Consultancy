@@ -58,7 +58,7 @@ export default function Team() {
                     </div>
                     <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-slate-900 via-slate-900/95 to-transparent p-6">
                       <h3 className="text-2xl font-bold text-white mb-2">{member.name}</h3>
-                      <p className="text-emerald-400 font-semibold text-lg">{member.role}</p>
+                      <p className="text-emerald-300 font-semibold text-lg">{member.role}</p>
                     </div>
                   </div>
                 </AnimatedSection>

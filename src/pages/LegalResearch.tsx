@@ -108,15 +108,15 @@ export default function LegalResearch() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                 <div>
                   <div className="text-5xl font-bold mb-2">Fast</div>
-                  <p className="text-emerald-100">Quick turnaround times without compromising quality</p>
+                  <p className="text-white">Quick turnaround times without compromising quality</p>
                 </div>
                 <div>
                   <div className="text-5xl font-bold mb-2">Accurate</div>
-                  <p className="text-emerald-100">Thorough research using advanced legal tech tools</p>
+                  <p className="text-white">Thorough research using advanced legal tech tools</p>
                 </div>
                 <div>
                   <div className="text-5xl font-bold mb-2">Reliable</div>
-                  <p className="text-emerald-100">Trusted insights you can depend on</p>
+                  <p className="text-white">Trusted insights you can depend on</p>
                 </div>
               </div>
             </div>

@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-span-1">
             <h3 className="text-2xl font-bold mb-4">
               <span className="text-white">LM</span>
-              <span className="text-emerald-500"> Legal</span>
+              <span className="text-emerald-400"> Legal</span>
             </h3>
             <p className="text-sm text-gray-300">
               High-end Legal Research and Consultancy Firm
@@ -68,7 +68,7 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
-                <Phone size={18} className="text-emerald-500 mt-1 flex-shrink-0" />
+                <Phone size={18} className="text-emerald-400 mt-1 flex-shrink-0" />
                 <div className="text-sm">
                   <p>+254 794 769 749</p>
                   <p>+254 707 097 617</p>
@@ -76,7 +76,7 @@ export default function Footer() {
                 </div>
               </li>
               <li className="flex items-start space-x-3">
-                <Mail size={18} className="text-emerald-500 mt-1 flex-shrink-0" />
+                <Mail size={18} className="text-emerald-400 mt-1 flex-shrink-0" />
                 <a
                   href="mailto:lmlegalconsult@gmail.com"
                   className="text-sm hover:text-emerald-400 transition-colors"

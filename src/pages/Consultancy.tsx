@@ -119,19 +119,19 @@ export default function Consultancy() {
                 <div className="space-y-6">
                   <div>
                     <h4 className="text-xl font-semibold mb-2">Client-Centric</h4>
-                    <p className="text-emerald-100">
+                    <p className="text-white">
                       We ensure that we properly understand your needs through continuous engagement and feedback.
                     </p>
                   </div>
                   <div>
                     <h4 className="text-xl font-semibold mb-2">Customized Solutions</h4>
-                    <p className="text-emerald-100">
+                    <p className="text-white">
                       Every client receives tailored advice and strategies that address their specific challenges.
                     </p>
                   </div>
                   <div>
                     <h4 className="text-xl font-semibold mb-2">Practical Insights</h4>
-                    <p className="text-emerald-100">
+                    <p className="text-white">
                       We deliver clear, actionable insights that you can implement immediately.
                     </p>
                   </div>
