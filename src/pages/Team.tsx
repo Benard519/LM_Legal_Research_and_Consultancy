@@ -6,17 +6,17 @@ export default function Team() {
     {
       name: 'Saada Loo',
       role: 'Consultant',
-      image: 'https://images.pexels.com/photos/3184613/pexels-photo-3184613.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/team/saada-loo.png',
     },
     {
       name: 'Shekhuna Abubakar',
       role: 'Consultant',
-      image: 'https://images.pexels.com/photos/3184611/pexels-photo-3184611.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/team/shekhuna-abubakar.png',
     },
     {
       name: 'Vivian Chesebe',
       role: 'Consultant',
-      image: 'https://images.pexels.com/photos/3184614/pexels-photo-3184614.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/team/vivian-chesebe.png',
     },
   ];
 
