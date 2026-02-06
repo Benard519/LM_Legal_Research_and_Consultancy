@@ -6,17 +6,17 @@ export default function Team() {
     {
       name: 'Saada Loo',
       role: 'Consultant',
-      image: '/team/saada-loo.png',
+      image: '/team/saada-loo.jpg',
     },
     {
       name: 'Shekhuna Abubakar',
       role: 'Consultant',
-      image: '/team/shekhuna-abubakar.png',
+      image: '/team/shekhuna-abubakar.jpg',
     },
     {
       name: 'Vivian Chesebe',
       role: 'Consultant',
-      image: '/team/vivian-chesebe.png',
+      image: '/team/vivian-chesebe.jpg',
     },
   ];
 
