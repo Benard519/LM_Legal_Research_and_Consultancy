@@ -80,9 +80,9 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <Phone size={18} className="text-emerald-400 mt-1 flex-shrink-0" />
                 <div className="text-sm">
-                  <p>+254 794 769 749</p>
+                  <p>+254 704 769 749</p>
                   <p>+254 707 097 617</p>
-                  <p>+254 701 486 835</p>
+                  <p>+254 718 474 372</p>
                 </div>
               </li>
               <li className="flex items-start space-x-3">
