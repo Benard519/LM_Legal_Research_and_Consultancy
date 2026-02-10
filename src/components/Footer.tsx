@@ -7,10 +7,20 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1">
-            <h3 className="text-2xl font-bold mb-4">
-              <span className="text-white">LM</span>
-              <span className="text-emerald-400"> Legal</span>
-            </h3>
+            <div className="flex items-center gap-3 mb-4">
+              <img
+                src="/team/Logo.svg"
+                alt="LM Legal Research and Consultancy logo"
+                width={44}
+                height={44}
+                className="h-11 w-11 rounded-md object-contain bg-white p-1"
+                loading="lazy"
+              />
+              <h3 className="text-xl font-bold leading-tight">
+                <span className="text-white">LM Legal Research</span>
+                <span className="text-emerald-300"> and Consultancy</span>
+              </h3>
+            </div>
             <p className="text-sm text-gray-300">
               High-end Legal Research and Consultancy Firm
             </p>

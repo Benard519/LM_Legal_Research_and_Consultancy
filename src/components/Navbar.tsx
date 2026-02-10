@@ -39,9 +39,23 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-3">
-            <div className="text-2xl font-bold">
-              <span className="text-white">LM</span>
-              <span className="text-emerald-400"> Legal</span>
+            <div className="flex items-center gap-3">
+              <img
+                src="/team/Logo.svg"
+                alt="LM Legal Research and Consultancy logo"
+                width={44}
+                height={44}
+                className="h-11 w-11 rounded-md object-contain bg-white/95 p-1"
+                loading="eager"
+              />
+              <div className="leading-tight">
+                <div className="text-lg sm:text-xl font-bold text-white">
+                  LM Legal Research
+                </div>
+                <div className="text-xs sm:text-sm font-semibold text-emerald-300">
+                  and Consultancy
+                </div>
+              </div>
             </div>
           </Link>
 

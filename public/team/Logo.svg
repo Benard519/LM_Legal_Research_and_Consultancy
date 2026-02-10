@@ -1,0 +1,14 @@
+<svg width="1000" height="1000" viewBox="80 80 840 840" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <!-- Circle -->
+  <circle cx="500" cy="500" r="420" fill="white"></circle>
+
+  <!-- Main mark -->
+  <text x="500" y="440" text-anchor="middle" font-family="Times New Roman, serif" font-size="145" fill="black">
+    L / M
+  </text>
+
+  <!-- Descriptor text -->
+  <text x="500" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="4.5" fill="black">
+    LEGAL RESEARCH AND CONSULTANCY
+  </text>
+</svg>
